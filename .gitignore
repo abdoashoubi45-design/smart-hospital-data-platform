@@ -1,0 +1,17 @@
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Secrets and environment variables
+.env
+
+# Editor settings
+.vscode/

@@ -1,0 +1,11 @@
+visit_id,patient_id,department,arrival_time,assessment_time,urgency_level,diagnosis_category,outcome
+V001,P001,Emergency,2026-10-20 08:05:00,2026-10-20 08:20:00,High,Respiratory,Admitted
+V002,P002,Emergency,2026-10-20 08:10:00,2026-10-20 08:35:00,Medium,Digestive,Discharged
+V003,P003,Emergency,2026-10-20 08:25:00,2026-10-20 09:00:00,Low,Minor Injury,Discharged
+V004,P004,Emergency,2026-10-20 09:00:00,2026-10-20 09:12:00,High,Cardiovascular,Admitted
+V005,P005,Emergency,2026-10-20 09:15:00,2026-10-20 09:40:00,Medium,Respiratory,Discharged
+V006,P006,Emergency,2026-10-20 10:00:00,2026-10-20 10:45:00,Low,Digestive,Discharged
+V007,P007,Emergency,2026-10-20 10:10:00,2026-10-20 10:30:00,Medium,Minor Injury,Transferred
+V008,P008,Emergency,2026-10-20 10:30:00,2026-10-20 10:42:00,High,Cardiovascular,Admitted
+V009,P009,Emergency,2026-10-20 11:00:00,2026-10-20 11:25:00,Medium,Digestive,Discharged
+V010,P010,Emergency,2026-10-20 11:20:00,2026-10-20 11:50:00,Low,Respiratory,Discharged
